@@ -9,7 +9,7 @@
         android:id="@+id/canelButton"
         android:layout_alignParentRight="true"
         android:background="@drawable/ic_cancel"
-        android:drawableTint="@color/red" />
+        />
 
     <ImageView
         android:id="@+id/imageView"
